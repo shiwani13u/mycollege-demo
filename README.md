@@ -1,3 +1,4 @@
 # mycollege-demo
-This is my Git Repository
-Author- Shiwani Dagar
+This is my Git Repository.
+<br>
+Author- Shiwani Dagar.
